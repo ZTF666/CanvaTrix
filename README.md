@@ -56,10 +56,10 @@ ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
 
 ```html
 <script src="script.js"></script>
+```
 
-<script>
-  ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
-</script>
+```javascript
+ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
 ```
 
 # Contact
