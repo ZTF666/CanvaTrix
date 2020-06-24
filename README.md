@@ -2,6 +2,4 @@
 
 Turn your canvas into a fancy Matrix .
 
-# Installation
-
-`npm i CanvaTrix --save`
+# How To Use This
