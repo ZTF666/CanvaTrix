@@ -79,9 +79,11 @@ you can contact me at ZTF666@protonmail.ch or via my portfolio
 
 ## License
 
-**💎🕵️‍♀️👨‍💻 PR0 H4X0R 👨‍💻🕵️‍♀️💎** released under the [MIT](LICENSE) License.
+<div align="center">
+
+**👨‍💻 CanvaTrix 👨‍💻** released under the [MIT](LICENSE) License.
 <br><br>
 
-<div align="center">
-<strong><p>Made with 🖤 by ZTF666 - N.EA | 2020  </p> </strong>
+<strong><p>Made with 🖤 by ZTF666 - N.EA | 2020 </p> </strong>
+
 </div>
