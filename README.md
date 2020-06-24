@@ -9,13 +9,13 @@
 👉 [Original Code](http://cssdeck.com/labs/the-matrix) 👈
 
 <br>
-<img src="https://firebasestorage.googleapis.com/v0/b/katzfacts.appspot.com/o/CanvaTrix.gif?alt=media&token=066afb11-1f1c-4dbe-b286-fcf448ea4487" >
+<img src="https://i.imgur.com/tpO8tHF.gif" >
 </div>
 <br><br>
 <p>This was made using : </p>
 
 <div align="center">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"  width='60' height='90'  alt="JS">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"  width='70' height='90'  alt="JS">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.rawgit.com%2Ffeross%2Fstandard%2Fmaster%2Fdocs%2Flogos%2Fnpm.png&f=1&nofb=1" width='120' height='60'  alt="JS">
 </div>
 
