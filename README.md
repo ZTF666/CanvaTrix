@@ -19,6 +19,9 @@
 <div align="center">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F99%2FUnofficial_JavaScript_logo_2.svg%2F1200px-Unofficial_JavaScript_logo_2.svg.png&f=1&nofb=1"  width='70' height='90'  alt="JS">
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.rawgit.com%2Ffeross%2Fstandard%2Fmaster%2Fdocs%2Flogos%2Fnpm.png&f=1&nofb=1" width='120' height='60'  alt="JS">
+
+<small>Please excuse that 15mb gif</small>
+
 </div>
 
 # NPM INSTALL
@@ -68,10 +71,6 @@ ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
 you can contact me at ZTF666@protonmail.ch or via my portfolio
 
 ```
-
-## PS
-
-`Please excuse that 15mb gif`
 
 <div align="center">
 
