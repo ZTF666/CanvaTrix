@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://i.imgur.com/tpO8tHF.gifv" >
+<img src="/scrsh/x.gif" >
 
 </div>
 <br><br>
@@ -62,12 +62,16 @@ ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
 </script>
 ```
 
-## Contact
+# Contact
 
 ```
 you can contact me at ZTF666@protonmail.ch or via my portfolio
 
 ```
+
+## PS
+
+`Please excuse that 15mb gif`
 
 <div align="center">
 
