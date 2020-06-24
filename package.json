@@ -19,8 +19,6 @@
   "bugs": {
     "url": "https://github.com/ZTF666/CanvaTrix/issues"
   },
-  "homepage": "https://github.com/ZTF666/CanvaTrix#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  }
+  "homepage": "https://github.com/ZTF666/CanvaTrix#readme"
+
 }
