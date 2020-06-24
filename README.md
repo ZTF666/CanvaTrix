@@ -44,10 +44,10 @@ ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
 
 ```html
 <canvas id="test" width="1000" height="50"></canvas>
+```
 
-<script>
-  ZTF("#test").matrix(50, 1000, 50);
-</script>
+```javascript
+ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
 ```
 
 # NOT USING NPM ? NO PROBLEM !
@@ -56,10 +56,10 @@ ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
 
 ```html
 <script src="script.js"></script>
-```
 
-```javascript
-ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
+<script>
+  ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
+</script>
 ```
 
 # Contact
