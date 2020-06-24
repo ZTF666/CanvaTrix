@@ -22,4 +22,4 @@ function ZTF(selector) {
   return self;
 }
 
-module.exports.ZTF = ZTF;
+// module.exports.ZTF = ZTF;
