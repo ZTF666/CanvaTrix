@@ -9,9 +9,8 @@
 👉 [Original Code](http://cssdeck.com/labs/the-matrix) 👈
 
 <br>
-<img src="https://i.imgur.com/tpO8tHF.gif" >
 
-[Imgur](https://i.imgur.com/tpO8tHF.gifv)
+<img src="https://i.imgur.com/tpO8tHF.gifv" >
 
 </div>
 <br><br>
