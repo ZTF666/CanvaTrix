@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZTF666/CanvaTrix.git"
+    "url": "git+https://github.com/ztf666/CanvaTrix.git"
   },
   "keywords": [
     "matrix",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ZTF666/CanvaTrix/issues"
   },
-  "homepage": "https://github.com/ZTF666/CanvaTrix#readme"
+  "homepage": "https://github.com/ZTF666/CanvaTrix#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
