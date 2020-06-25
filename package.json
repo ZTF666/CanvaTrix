@@ -1,0 +1,25 @@
+{
+  "name": "canvatrix",
+  "version": "1.0.1",
+  "description": "Turns your html canvas into fancy matrix like screens",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZTF666/CanvaTrix.git"
+  },
+  "keywords": [
+    "canvas",
+    "matrix",
+    "effect",
+    "javascript"
+  ],
+  "author": "ZTF666",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZTF666/CanvaTrix/issues"
+  },
+  "homepage": "https://github.com/ZTF666/CanvaTrix#readme"
+}

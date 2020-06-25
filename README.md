@@ -33,7 +33,7 @@ $ npm i canvatrix
 ## Usage
 
 ```javascript
-import { ZTF } from "canvatrix";
+import { ZTF } from "canvatrix/canvatrix";
 
 ZTF(YOUR_CANVAS_ID).matrix(SPEED, CANVAS_WIDTH, CANVAS_HEIGHT);
 ```
