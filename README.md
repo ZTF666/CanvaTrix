@@ -1,6 +1,9 @@
 # CanvaTrix
 
 <div align="center">
+  
+[![VueCount](http://hits.dwyl.com/ZTF666/CanvaTrix.svg)](http://hits.dwyl.com/ZTF666/CanvaTrix)
+  
 <p>Turn your <strong><</strong>canvas<strong>></strong> into a fancy Matrix like screen.</p>
 <p>This is  a readaptation/tweaked version made to be used more efficiently </p>
 <p>The original code can be found here :</p>
