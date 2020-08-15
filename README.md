@@ -10,8 +10,8 @@
 
 <br>
 
-<img src="/scrsh/x.gif" >
-<small>Please excuse that 15mb gif</small>
+<img src="https://firebasestorage.googleapis.com/v0/b/canvatrix.appspot.com/o/x.gif?alt=media&token=7d2cd492-f5e7-4013-9ec2-347ba8d7c2e0" >
+
 </div>
 <br><br>
 <p>This was made using : </p>
