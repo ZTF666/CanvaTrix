@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/canvatrix.appspot.com/o/x.gif?alt=media&token=7d2cd492-f5e7-4013-9ec2-347ba8d7c2e0" >
+<img src="https://firebasestorage.googleapis.com/v0/b/canvatrix.appspot.com/o/x.gif?alt=media&token=7d2cd492-f5e7-4013-9ec2-347ba8d7c2e0">
 
 </div>
 <br><br>
